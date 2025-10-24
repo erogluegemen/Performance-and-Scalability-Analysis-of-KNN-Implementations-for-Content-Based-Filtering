@@ -1,4 +1,4 @@
-# CPU vs. GPU: A K-Nearest Neighbors Benchmark
+# Performance and Scalability Analysis of KNN Implementations for Content-Based Filtering
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14pI2VEV_hNfg9kMWgu_27Qnnhqb0RyvU?usp=sharing)
 
