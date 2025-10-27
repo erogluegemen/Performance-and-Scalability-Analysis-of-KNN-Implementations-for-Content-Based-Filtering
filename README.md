@@ -113,10 +113,15 @@ The notebooks are designed to run in Google Colab.
 1.  Click the **"Open In Colab"** badges at the top of this README to open your desired notebook.
 2.  In the Colab notebook, go to **Runtime > Change runtime type** and select **`T4 GPU`** (or any other available GPU).
 3.  Run all cells in order from top to bottom.
-
 ---
 
 ## Acknowledgements
 * This project was prepared for the **CMP5104: Recommender Systems** master's class under the guidance of **Doç. Dr. Tevfik Aytekin**.
 * This benchmark uses datasets provided by the [GroupLens research lab](https://grouplens.org/datasets/movielens/) at the University of Minnesota.
 * This project is powered by the [NVIDIA RAPIDS](https://rapids.ai/) open-source software libraries.
+
+---
+
+## Additional Note
+
+Read **RecSys** Best Paper Awards: https://recsys.acm.org/best-papers/
